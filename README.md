@@ -9,6 +9,7 @@
 - 👯 Atualmente estou procurando estudar meus interesses, tais como: desenvolvimento de aplicações web, design, UI/UX, inteligência artificial ...
 - 😄 Sempre disposta a aprender coisas novas!
 - ⚡ Personalidade curiosa sufiente pra gostar da infinidade de coisa a aprender na área da tecnologia ...
+- ⚡ Contato:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
   <p align="center">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -20,11 +21,9 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />    
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-          
+  
   <br/>
  
- <a href = "https://www.linkedin.com/in/krishna-kumar-m"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  <p align="center">    
   <!-- <p align="center"> -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GiovanaJoice&layout=compact&hide_border=true&theme=jolly" /></a>    
