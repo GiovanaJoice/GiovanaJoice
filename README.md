@@ -4,10 +4,11 @@
 </h2>
 
 
-✨ _special_ ✨
-Here are some ideas to get you started:
+- ✨Computer engineering student at IFCE ✨
+- About me:
 
 - 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,12 +33,11 @@ Here are some ideas to get you started:
  
   
  <p align="center">    
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly)  
   <!-- <p align="center"> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GiovanaJoice&layout=compact&hide_border=true&theme=jolly" /></a>
-   
-          
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GiovanaJoice&layout=compact&hide_border=true&theme=jolly" /></a>    
 </p>
 
+ <br/>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly)  
+  
