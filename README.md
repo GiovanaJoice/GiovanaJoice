@@ -1,15 +1,15 @@
 <h2 align="center">
-  Olá, bem-vindos ao meu perfil!
+  Hey, welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 - About me:
-- ✨Computer engineering student at IFCE ✨
-- 🎓 Me formei em 2023 como técnica em informática pelo IFCE ...
-- 👯 Atualmente estou procurando estudar meus interesses, tais como: desenvolvimento de aplicações web, design, UI/UX, inteligência artificial ...
-- 😄 Sempre disposta a aprender coisas novas!
-- ⚡ Personalidade curiosa sufiente pra gostar da infinidade de coisa a aprender na área da tecnologia ...
-- ⚡ Contato:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+- ✨ Computer engineering student at IFCE ✨
+- 🎓  Finished my IT technician degree in 2023 (also at IFCE — yeah, I like it there 😅).
+- 👯  Currently diving into stuff I love: web development, design, UI/UX, and a bit of AI...
+- 🤓 Always up for learning something new!
+- ⚡ I’m just that curious person who loves how infinite the tech world is — there’s always something cool to learn.
+- 📬 Let’s connect:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
   <p align="center">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
