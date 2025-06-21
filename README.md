@@ -5,10 +5,10 @@
 
 - About me:
 - ✨ Computer engineering student at IFCE ✨
-- 🎓  Finished my IT technician degree in 2023 (also at IFCE — yeah, I like it there 😅).
+- 🎓  Finished my IT technician degree in 2023 (also at IFCE 😅).
 - 👯  Currently diving into stuff I like: web development, design, UI/UX, and a bit of AI...
 - 🤓 Always up for learning something new!
-- ⚡ I’m just that curious person who loves how infinite the tech world is — there’s always something cool to learn.
+- ⚡ I’m just that curious person who likes how infinite the tech world is.
 - 📬 Let’s connect:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
   <p align="center">
