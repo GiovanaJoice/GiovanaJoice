@@ -11,6 +11,8 @@
 - ⚡ I’m just that curious person who likes how infinite the tech world is.
 - 📬 Connect with me:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
+ <br/>
+
   <p align="center">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -22,7 +24,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   
-  <br/>
+  <br/> <br/>
  
  <p align="center">    
   <!-- <p align="center"> -->
