@@ -33,5 +33,15 @@
 
  <br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly)  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly) 
+
+ <br/>
+
+![snake gif](https://github.com/GiovanaJoice/GiovanaJoice/blob/output/github-contribution-grid-snake.svg)
+
+(![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaJoiceGiovanaJoice&theme=react)](https://github.com/GiovanaJoice/GiovanaJoice)
+BI
+!!!
+!!! H66
+K
   
