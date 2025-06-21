@@ -39,9 +39,5 @@
 
 ![snake gif](https://github.com/GiovanaJoice/GiovanaJoice/blob/output/github-contribution-grid-snake.svg)
 
-(![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaJoiceGiovanaJoice&theme=react)](https://github.com/GiovanaJoice/GiovanaJoice)
-BI
-!!!
-!!! H66
-K
-  
+(![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaJoice&repo=GiovanaJoice&theme=react)](https://github.com/GiovanaJoice/GiovanaJoice)
+
