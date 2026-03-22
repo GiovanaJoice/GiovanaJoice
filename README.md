@@ -11,33 +11,29 @@
 - ⚡ I’m just that curious person who likes how infinite the tech world is.
 - 📬 Connect with me:   <br/> <a href = "https://www.linkedin.com/in/giovana-joice-2915831b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
- <br/>
+<br/>
 
-  <p align="center">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />    
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  
-  <br/> <br/>
- 
- <p align="center">    
-  <!-- <p align="center"> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GiovanaJoice&layout=compact&hide_border=true&theme=jolly" /></a>    
+<p align="center">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />    
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
- <br/>
+<br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly) 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GiovanaJoice&layout=compact&hide_border=true&theme=jolly" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GiovanaJoice&show_icons=true&theme=jolly" />
+  </a>
+</div>
 
- <br/>
-<!-- […]
-![snake gif](https://github.com/GiovanaJoice/GiovanaJoice/blob/output/github-contribution-grid-snake.svg)
-
-[(![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaJoice&repo=GiovanaJoice&theme=react)](https://github.com/GiovanaJoice/GiovanaJoice)
- -->
+<br/>
